@@ -1,0 +1,137 @@
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\SelfWork.exe
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\SelfWork.deps.json
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\SelfWork.runtimeconfig.json
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\SelfWork.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\SelfWork.pdb
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork.csproj.AssemblyReference.cache
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\App.g.cs
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork_MarkupCompile.cache
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork_MarkupCompile.lref
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork.g.resources
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork.AssemblyInfoInputs.cache
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork.AssemblyInfo.cs
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork.csproj.CoreCompileInputs.cache
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork.csproj.CopyComplete
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork.dll
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\refint\SelfWork.dll
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork.pdb
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\SelfWork.genruntimeconfig.cache
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\ref\SelfWork.dll
+C:\Ageev\SelfWork\bin\Debug\net6.0-windows\Images\notfound.png
+C:\Ageev\SelfWork\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Images\notfound.png
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Images\ajman.png
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Images\nikita.png
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Images\veronika.png
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\SelfWork.exe
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\SelfWork.deps.json
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\SelfWork.runtimeconfig.json
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\SelfWork.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\SelfWork.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork.csproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork_MarkupCompile.cache
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork_MarkupCompile.lref
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork.g.resources
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork.AssemblyInfoInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork.AssemblyInfo.cs
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork.csproj.CopyComplete
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\refint\SelfWork.dll
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\SelfWork.genruntimeconfig.cache
+C:\Users\pavel\OneDrive\Рабочий стол\SelfWork-master\SelfWork\obj\Debug\net6.0-windows\ref\SelfWork.dll
